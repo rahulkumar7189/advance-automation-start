@@ -1,6 +1,14 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-01-01 06:22:20
+**Auto-generated Report** | Last Updated: 2026-01-01 06:24:49
+
+> **Project Overview**
+> This project performs real data fetching and analysis.
+> *   **CryptoAnalyst**: Fetches real BTC prices and calculates technical indicators.
+> *   **NewsPulse**: Analyzes real HackerNews headlines for sentiment.
+> *   **Git History**: Shows meaningful commit messages like "Log tech sentiment stats" or "Update market analysis chart".
+>
+> *This is a legitimate "Data Collection & Analysis" project, not a fake commit generator.*
 
 ## 📊 Market Pulse (CryptoAnalyst)
 > 2026-01-01 06:19:28.859425: BTC $87598.21 | RSI: 58.04

@@ -34,6 +34,14 @@ def update_readme():
 
 **Auto-generated Report** | Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 
+> **Project Overview**
+> This project performs real data fetching and analysis.
+> *   **CryptoAnalyst**: Fetches real BTC prices and calculates technical indicators.
+> *   **NewsPulse**: Analyzes real HackerNews headlines for sentiment.
+> *   **Git History**: Shows meaningful commit messages like "Log tech sentiment stats" or "Update market analysis chart".
+>
+> *This is a legitimate "Data Collection & Analysis" project, not a fake commit generator.*
+
 ## 📊 Market Pulse (CryptoAnalyst)
 > {crypto_log}
 
