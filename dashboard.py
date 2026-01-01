@@ -51,7 +51,7 @@ def update_readme():
 {sentiment_summary}
 
 ---
-*This repository is maintained by an autonomous Python agent performing daily data science and NLP tasks.*
+*This repository is maintained by an autonomous Python agent performing daily data science and NLP tasks. Created and Designed by Rahul Kumar.*
 """
 
     with open(README_PATH, 'w', encoding='utf-8') as f:
