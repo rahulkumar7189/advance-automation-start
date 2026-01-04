@@ -50,3 +50,23 @@ Dashboard updated at C:\Users\Asus\Downloads\AUtomate\advanced_automation\README
 Committed: Update market analysis chart. Log tech sentiment stats. Refreshed Dashboard.
 Git Error: Command '['git', 'push', '-u', 'origin', 'main']' returned non-zero exit status 128.
 --- Cycle Complete ---
+
+1 Failed download:
+['BTC-USD']: TypeError("'NoneType' object is not subscriptable")
+warning: in the working copy of 'data/scheduler_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main ae87419] Update market analysis chart. Log tech sentiment stats. Refreshed Dashboard.
+ 2 files changed, 21 insertions(+), 1 deletion(-)
+fatal: unable to access 'https://github.com/rahulkumar7189/advance-automation-start.git/': Could not resolve host: github.com
+--- Starting Automation Cycle: 2026-01-04 02:27:09.130248 ---
+Running Crypto Analyst...
+Fetching BTC-USD data...
+No data fetched.
+Running News Pulse...
+Fetching Top Tech News...
+Error fetching news: HTTPSConnectionPool(host='hacker-news.firebaseio.com', port=443): Max retries exceeded with url: /v0/topstories.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE0357FCD0>: Failed to resolve 'hacker-news.firebaseio.com' ([Errno 11001] getaddrinfo failed)"))
+No headlines found.
+Updating Dashboard...
+Dashboard updated at C:\Users\Asus\Downloads\AUtomate\advanced_automation\README.md
+Committed: Update market analysis chart. Log tech sentiment stats. Refreshed Dashboard.
+Git Error: Command '['git', 'push', '-u', 'origin', 'main']' returned non-zero exit status 128.
+--- Cycle Complete ---
