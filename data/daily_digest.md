@@ -43,3 +43,8 @@
 - **Top Story**: ASCII characters are not pixels: a deep dive into ASCII rendering
 - **Sample**: _We Put Claude Code in Rollercoaster Tycoon_
 
+## 2026-01-21
+- **Tech Mood**: Positive 📈 (Score: 0.04)
+- **Top Story**: Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
+- **Sample**: _SmartOS_
+
