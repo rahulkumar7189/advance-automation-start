@@ -251,4 +251,18 @@ Dashboard updated at C:\Users\Asus\Downloads\AUtomate\advanced_automation\README
 Committed: Update market analysis chart. Refreshed Dashboard.
 Git Error: Command '['git', 'push', '-u', 'origin', 'main']' returned non-zero exit status 128.
 --- Cycle Complete ---
-^C^C^C
+^C^C^Cwarning: in the working copy of 'data/scheduler_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 4c1fc0d] Update market analysis chart. Refreshed Dashboard.
+ 4 files changed, 20 insertions(+), 2 deletions(-)
+branch 'main' set up to track 'origin/main'.
+To https://github.com/rahulkumar7189/advance-automation-start.git
+   12dac2e..4c1fc0d  main -> main
+--- Starting Automation Cycle: 2026-01-29 22:27:34.705734 ---
+Running Crypto Analyst...
+Fetching BTC-USD data...
+Chart saved to C:\Users\Asus\Downloads\AUtomate\advanced_automation\data\btc_analysis.png
+Updating Dashboard...
+Dashboard updated at C:\Users\Asus\Downloads\AUtomate\advanced_automation\README.md
+Committed: Update market analysis chart. Refreshed Dashboard.
+Pushed to remote.
+--- Cycle Complete ---
