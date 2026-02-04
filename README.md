@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-02-02 10:27:23
+**Auto-generated Report** | Last Updated: 2026-02-04 10:27:15
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -16,10 +16,10 @@
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-02-02
-- **Tech Mood**: Negative 📉 (Score: -0.08)
-- **Top Story**: Defeating a 40-year-old copy protection dongle
-- **Sample**: _Notepad++ hijacked by state-sponsored actors_
+## 2026-02-04
+- **Tech Mood**: Positive 📈 (Score: 0.01)
+- **Top Story**: I miss thinking hard
+- **Sample**: _Lessons learned shipping 500 units of my first hardware product_
 
 
 
