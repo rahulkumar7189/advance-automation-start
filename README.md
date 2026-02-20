@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-02-16 18:27:16
+**Auto-generated Report** | Last Updated: 2026-02-20 11:04:13
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -11,15 +11,15 @@
 > *This is a legitimate "Data Collection & Analysis" project, not a fake commit generator.*
 
 ## 📊 Market Pulse (CryptoAnalyst)
-> 2026-02-16 18:27:16.167348: BTC $69706.07 | RSI: 37.38
+> 2026-02-20 11:03:54.184196: BTC $67432.76 | RSI: 60.67
 
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-02-04
-- **Tech Mood**: Positive 📈 (Score: 0.01)
-- **Top Story**: I miss thinking hard
-- **Sample**: _Lessons learned shipping 500 units of my first hardware product_
+## 2026-02-20
+- **Tech Mood**: Positive 📈 (Score: 0.09)
+- **Top Story**: MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes
+- **Sample**: _Gemini 3.1 Pro_
 
 
 
