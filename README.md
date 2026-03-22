@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-03-19 02:27:18
+**Auto-generated Report** | Last Updated: 2026-03-23 02:27:22
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -16,10 +16,10 @@
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-03-19
-- **Tech Mood**: Negative 📉 (Score: -0.02)
-- **Top Story**: OpenRocket
-- **Sample**: _Rob Pike’s Rules of Programming (1989)_
+## 2026-03-23
+- **Tech Mood**: Negative 📉 (Score: -0.05)
+- **Top Story**: We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical
+- **Sample**: _OpenClaw Is a Security Nightmare Dressed Up as a Daydream_
 
 
 
