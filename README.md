@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-03-31 23:06:51
+**Auto-generated Report** | Last Updated: 2026-04-03 02:27:17
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -16,10 +16,10 @@
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-03-31
-- **Tech Mood**: Positive 📈 (Score: 0.07)
-- **Top Story**: Cohere Transcribe: Speech Recognition
-- **Sample**: _Axios compromised on NPM – Malicious versions drop remote access trojan_
+## 2026-04-03
+- **Tech Mood**: Positive 📈 (Score: 0.08)
+- **Top Story**: Google releases Gemma 4 open models
+- **Sample**: _Tailscale's new macOS home_
 
 
 
