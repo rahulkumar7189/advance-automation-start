@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-04-06 02:27:11
+**Auto-generated Report** | Last Updated: 2026-04-07 04:21:14
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -16,10 +16,10 @@
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-04-03
-- **Tech Mood**: Positive 📈 (Score: 0.08)
-- **Top Story**: Google releases Gemma 4 open models
-- **Sample**: _Tailscale's new macOS home_
+## 2026-04-07
+- **Tech Mood**: Negative 📉 (Score: -0.03)
+- **Top Story**: Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
+- **Sample**: _Launch HN: Freestyle – Sandboxes for Coding Agents_
 
 
 
