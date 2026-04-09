@@ -698,3 +698,19 @@ Dashboard updated at C:\Users\Asus\Downloads\AUtomate\advanced_automation\README
 Committed: Log tech sentiment stats. Refreshed Dashboard.
 Pushed to remote.
 --- Cycle Complete ---
+
+1 Failed download:
+['BTC-USD']: TypeError("'NoneType' object is not subscriptable")
+warning: in the working copy of 'data/scheduler_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main b5fd4c9] Update market analysis chart. Refreshed Dashboard.
+ 2 files changed, 18 insertions(+), 2 deletions(-)
+fatal: unable to access 'https://github.com/rahulkumar7189/advance-automation-start.git/': Could not resolve host: github.com
+--- Starting Automation Cycle: 2026-04-09 06:27:07.516499 ---
+Running Crypto Analyst...
+Fetching BTC-USD data...
+No data fetched.
+Updating Dashboard...
+Dashboard updated at C:\Users\Asus\Downloads\AUtomate\advanced_automation\README.md
+Committed: Update market analysis chart. Refreshed Dashboard.
+Git Error: Command '['git', 'push', '-u', 'origin', 'main']' returned non-zero exit status 128.
+--- Cycle Complete ---
