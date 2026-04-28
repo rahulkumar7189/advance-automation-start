@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-04-26 02:27:21
+**Auto-generated Report** | Last Updated: 2026-04-28 10:27:20
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -16,10 +16,10 @@
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-04-26
-- **Tech Mood**: Positive 📈 (Score: 0.11)
-- **Top Story**: The Free Universal Construction Kit
-- **Sample**: _1-Bit Hokusai's "The Great Wave" (2023)_
+## 2026-04-28
+- **Tech Mood**: Negative 📉 (Score: -0.01)
+- **Top Story**: Talkie: a 13B vintage language model from 1930
+- **Sample**: _Microsoft and OpenAI end their exclusive and revenue-sharing deal_
 
 
 
