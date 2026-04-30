@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-04-29 14:27:12
+**Auto-generated Report** | Last Updated: 2026-04-30 14:27:14
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -16,10 +16,10 @@
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-04-28
-- **Tech Mood**: Negative 📉 (Score: -0.01)
-- **Top Story**: Talkie: a 13B vintage language model from 1930
-- **Sample**: _Microsoft and OpenAI end their exclusive and revenue-sharing deal_
+## 2026-04-30
+- **Tech Mood**: Negative 📉 (Score: -0.05)
+- **Top Story**: Where the goblins came from
+- **Sample**: _Noctua releases official 3D CAD models for its cooling fans_
 
 
 
