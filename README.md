@@ -1,6 +1,6 @@
 # 🤖 Advanced Engineering Automation Dashboard
 
-**Auto-generated Report** | Last Updated: 2026-04-30 14:27:14
+**Auto-generated Report** | Last Updated: 2026-05-01 18:27:14
 
 > **Project Overview**
 > This project performs real data fetching and analysis.
@@ -16,10 +16,10 @@
 ![BTC Analysis](data/btc_analysis.png)
 
 ## 📰 Tech Sentiment (NewsPulse)
-## 2026-04-30
-- **Tech Mood**: Negative 📉 (Score: -0.05)
-- **Top Story**: Where the goblins came from
-- **Sample**: _Noctua releases official 3D CAD models for its cooling fans_
+## 2026-05-01
+- **Tech Mood**: Positive 📈 (Score: 0.11)
+- **Top Story**: Your Website Is Not for You
+- **Sample**: _Running Adobe's 1991 PostScript Interpreter in the Browser_
 
 
 
